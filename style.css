@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.box{
+    margin: 50vh auto 50vh auto;
+    height: 100px;
+    width: 100px;
+    border: 4px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.a{
+    background-color: violet;
+}
+
+.b{
+    background-color: yellow;
+}
+
+.c{
+    background-color: green;
+}
